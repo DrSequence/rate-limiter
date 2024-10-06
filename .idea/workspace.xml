@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a36224de-3ad8-43eb-8396-c95a834de4c1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" url="file:///usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;DrSequence&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/DrSequence/rate-limiter.git&quot;,
+    &quot;accountId&quot;: &quot;a2dc224b-bd95-4358-8544-b7d42ae70893&quot;
+  }
+}</component>
+  <component name="HttpClientSelectedEnvironments">
+    <file url="jar://$APPLICATION_HOME_DIR$/plugins/restClient/lib/restClient.jar!/com/intellij/ws/rest/client/requests/collection/post-requests.http" environment="test" />
+  </component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2n4e6IPG9hDJUIuI41tMQiIS9kY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Go Build.go build main.go.executor": "Debug",
+    "Go Test.TestRateLimiterWithMemcached in rate-limiter/internal/app.executor": "Debug",
+    "Go Test.TestRateLimiterWithMemcached/First_request,_should_be_allowed in rate-limiter/internal/app.executor": "Debug",
+    "Go Test.TestRateLimiterWithMemcached/Multiple_requests_under_limit in rate-limiter/internal/app.executor": "Debug",
+    "Go Test.TestRateLimiterWithMemcached/Request_exceeds_limit in rate-limiter/internal/app.executor": "Debug",
+    "Go Test.TestVerifyHandler_MissingHeaders in rate-limiter/internal/http.executor": "Debug",
+    "Go Test.TestVerifyHandler_Success in rate-limiter/internal/http.executor": "Debug",
+    "HTTP Request.test_request | #1.executor": "Run",
+    "HTTP Request.test_request | Send POST request with json body.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
+    "git-widget-placeholder": "main",
+    "go.import.settings.migrated": "true",
+    "go.sdk.automatically.set": "true",
+    "last_opened_file_path": "/Users/ilya/Documents/git/contests/golang/rate-limiter",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="RunManager" selected="Go Test.TestRateLimiterWithMemcached in rate-limiter/internal/app">
+    <configuration name="TestRateLimiterWithMemcached in rate-limiter/internal/app" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="rate-limiter" />
+      <working_directory value="$PROJECT_DIR$/internal/app" />
+      <root_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="rate-limiter/internal/app" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <pattern value="^\QTestRateLimiterWithMemcached\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestRateLimiterWithMemcached/First_request,_should_be_allowed in rate-limiter/internal/app" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="rate-limiter" />
+      <working_directory value="$PROJECT_DIR$/internal/app" />
+      <root_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="rate-limiter/internal/app" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <pattern value="^\QTestRateLimiterWithMemcached\E$/^\QFirst_request,_should_be_allowed\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestRateLimiterWithMemcached/Multiple_requests_under_limit in rate-limiter/internal/app" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="rate-limiter" />
+      <working_directory value="$PROJECT_DIR$/internal/app" />
+      <root_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="rate-limiter/internal/app" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <pattern value="^\QTestRateLimiterWithMemcached\E$/^\QMultiple_requests_under_limit\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestRateLimiterWithMemcached/Request_exceeds_limit in rate-limiter/internal/app" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="rate-limiter" />
+      <working_directory value="$PROJECT_DIR$/internal/app" />
+      <root_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="rate-limiter/internal/app" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <pattern value="^\QTestRateLimiterWithMemcached\E$/^\QRequest_exceeds_limit\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestVerifyHandler_MissingHeaders in rate-limiter/internal/http" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="rate-limiter" />
+      <working_directory value="$PROJECT_DIR$/internal/http" />
+      <root_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="rate-limiter/internal/http" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <pattern value="^\QTestVerifyHandler_MissingHeaders\E$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.TestRateLimiterWithMemcached in rate-limiter/internal/app" />
+        <item itemvalue="Go Test.TestRateLimiterWithMemcached/Request_exceeds_limit in rate-limiter/internal/app" />
+        <item itemvalue="Go Test.TestRateLimiterWithMemcached/Multiple_requests_under_limit in rate-limiter/internal/app" />
+        <item itemvalue="Go Test.TestRateLimiterWithMemcached/First_request,_should_be_allowed in rate-limiter/internal/app" />
+        <item itemvalue="Go Test.TestVerifyHandler_MissingHeaders in rate-limiter/internal/http" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-gosdk-d297c17c1fbd-35b5ac303a62-org.jetbrains.plugins.go.sharedIndexes.bundled-GO-243.18137.20" />
+        <option value="bundled-js-predefined-d6986cc7102b-b86d7ee83eed-JavaScript-GO-243.18137.20" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/cmd/rate-limiter/main.go</url>
+          <line>10</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

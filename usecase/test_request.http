@@ -1,0 +1,17 @@
+/**
+    curl -X POST http://localhost:8080/verify \
+     -H "Content-Type: application/json" \
+     -H "user_id: 12345" \
+     -H "app_id: my_app" \
+     -d '{"order_id": "order_001"}'
+**/
+
+### Send POST request with json body
+POST http://localhost:8080/verify
+Content-Type: application/json
+User-id: 123
+App-id: test_app_1
+
+{
+  "order_id": "999"
+}

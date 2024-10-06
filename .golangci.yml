@@ -1,0 +1,21 @@
+linters:
+  enable:
+    - govet
+    - staticcheck
+    - gofmt
+    - errcheck
+    - unused
+    - gocyclo
+
+run:
+  timeout: 5m
+  tests: true
+  concurrency: 4
+
+issues:
+  max-same-issues: 5
+  max-issues-per-linter: 10
+  exclude-rules:
+    - linters:
+        - gocyclo
+      text: "function is too complex"

@@ -1,0 +1,11 @@
+# Server configurations
+server:
+  host: "localhost"
+  port: 8080
+
+# Memcached config
+cache:
+  server: "localhost:11211"
+  prefix: "app"
+  limit: 10000
+  ttl: 86400
